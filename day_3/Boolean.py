@@ -40,7 +40,7 @@ X1 = 2
 X2 = 6
 Y1 = 2
 Y2 = 10
-d = math.sqrt(((x_2 - x_1)**2 + (y_2 - y_1)**2))
+d = math.sqrt(((X2 - X1)**2 + (Y2 - Y1)**2))
 print(d)
 
 print (m==d)
